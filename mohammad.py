@@ -1,7 +1,7 @@
 import math
 
 score = [
-    {"id": 1, "name": "Alice", "score": 3},
+    {"id": 1, "name": "Alicee", "score": 3},
     {"id": 2, "name": "Bob", "score": 7.87},
     {"id": 3, "name": "Charlie", "score": 9.001},
     {"id": 4, "name": "David", "score": 11},
